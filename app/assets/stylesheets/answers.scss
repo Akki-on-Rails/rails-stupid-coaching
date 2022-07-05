@@ -1,12 +1,24 @@
-// Place all the styles related to the Questions controller here.
+// Place all the styles related to the Answers controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: dimgrey;
+  font-weight: bolder;
 }
 
 h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: royalblue;
+}
+
+.quote {
+  font-size: .8em;
+  color: lightskyblue;
+  font-weight: 500;
+}
+
+.link {
+  font-weight: 500;
+  font-style: italic;
 }
